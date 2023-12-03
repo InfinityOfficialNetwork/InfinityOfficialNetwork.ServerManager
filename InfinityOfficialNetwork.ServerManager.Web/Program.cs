@@ -30,7 +30,6 @@ namespace InfinityOfficialNetwork.ServerManager.Web
             Application.MapRazorComponents<App>()
                 .AddInteractiveServerRenderMode();
             Application.Run();
-            //vbrs
         }
     }
 }
