@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+	<Process>
+		<FilePath>
+			<![CDATA[wwwroot\runtime\bin\java.exe]]>
+		</FilePath>
+		<ServerPath>
+			<![CDATA[wwwroot\server\server.jar]]>
+		</ServerPath>
+		<MinMemory>
+			<![CDATA[1024M]]>
+		</MinMemory>
+		<MaxMemory>
+			<![CDATA[4096M]]>
+		</MaxMemory>
+		<NoGUI>
+			true
+		</NoGUI>
+		<User>
+			<![CDATA[Guest]]>
+		</User>
+		<Password>
+			<![CDATA[]]>
+		</Password>
+	</Process>
+</Configuration>
