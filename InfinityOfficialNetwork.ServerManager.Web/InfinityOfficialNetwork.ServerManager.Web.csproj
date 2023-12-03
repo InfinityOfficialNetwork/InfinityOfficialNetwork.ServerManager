@@ -45,4 +45,8 @@
     <AdditionalDesignTimeBuildInput Remove="FakesAssemblies\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\InfinityOfficialNetwork.ServerManager.Library\InfinityOfficialNetwork.ServerManager.Library.vcxproj" />
+  </ItemGroup>
+
 </Project>
